@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;500&family=DM+Sans&family=Lato&family=Lora:ital,wght@1,500&family=Montserrat:wght@300;400&family=Open+Sans:wght@300&family=Poppins&family=Roboto:wght@100;400;500&family=Space+Grotesk&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+body{
+    background-color: #190e2f;
+}
+
+.time{
+    font-weight: 600;
+}
+h6{
+    font-weight: 400;
+    font-size: 14px;
+
+}
+.timelinegroup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* line */
+
+.line-one{
+    width: 4px;
+    height: 137px;
+    background: #D434FE;
+}
+.line{
+    height: 68px;
+    width: 4px;
+    background: #D434FE;
+}
+.cricle {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background: #D434FE;
+
+}
+/*  */
+.cricle p{
+    text-align: center;
+}
+h4{
+    color: #D434FE;
+
+}
+.nov-1{
+    margin-top: 100px;
+}
+.nov-2{
+    margin-top: 50px;
+}
+.nov-3{
+    margin-top: 70px;
+}
+.nov-4{
+    margin-top: 60px;
+
+}
+.nov-5{
+    margin-top: 60px;
+
+}
+.thirdcontainer {
+    top: 140px;
+    position: relative;
+}
+.tag-one{
+    margin-top: 80px;
+}

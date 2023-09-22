@@ -1,0 +1,28 @@
+*{
+    /* align-items:center ; */
+    color: white;
+
+}
+body{
+    background-color: #190e2f;
+    text-align: center ;
+
+
+}
+.line-one{
+    width: 4px;
+    height: 137px;
+    background: #D434FE;
+}
+.line{
+    height: 68px;
+    width: 4px;
+    background: #D434FE;
+}
+.cricle {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: #D434FE;
+
+}
